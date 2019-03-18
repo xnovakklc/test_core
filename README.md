@@ -1,2 +1,2 @@
 # test_core
-# Initial docs
+Initial docs
